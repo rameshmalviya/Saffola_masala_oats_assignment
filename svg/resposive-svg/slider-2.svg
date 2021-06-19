@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="378px" height="667px" viewBox="0 0 378 667" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bg</title>
+    <defs>
+        <linearGradient x1="-23.7329066%" y1="34.7810589%" x2="236.39663%" y2="70.5395735%" id="linearGradient-1">
+            <stop stop-color="#8E6A46" offset="2%"></stop>
+            <stop stop-color="#F1D07C" offset="40%"></stop>
+            <stop stop-color="#D9B76E" offset="43%"></stop>
+            <stop stop-color="#B9965C" offset="49%"></stop>
+            <stop stop-color="#A37E50" offset="54%"></stop>
+            <stop stop-color="#957048" offset="59%"></stop>
+            <stop stop-color="#906B45" offset="63%"></stop>
+            <stop stop-color="#987449" offset="66%"></stop>
+            <stop stop-color="#AD8B54" offset="70%"></stop>
+            <stop stop-color="#CFB165" offset="76%"></stop>
+            <stop stop-color="#F1D777" offset="81%"></stop>
+            <stop stop-color="#D8BB6B" offset="83%"></stop>
+            <stop stop-color="#BD9E5D" offset="86%"></stop>
+            <stop stop-color="#A88753" offset="88%"></stop>
+            <stop stop-color="#9A774C" offset="91%"></stop>
+            <stop stop-color="#916D47" offset="95%"></stop>
+            <stop stop-color="#8E6A46" offset="99%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design-v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Saffola-Masala-Oats_Landing-Page_Mobile_v3" transform="translate(1.000000, -16.000000)">
+            <g id="banner" transform="translate(-1.000000, 16.000000)">
+                <g id="bg" transform="translate(0.028233, -0.000000)">
+                    <polygon id="Path" fill="#FCC517" points="1 9.09494702e-13 376 1.10433884e-12 376 585 1 585"></polygon>
+                    <path d="M0.377905094,0 C8.80757085,113.015695 22.8230057,180.217972 42.4242096,201.606829 C55.6898874,216.082353 58.8351908,252.215509 73.2725386,267.083631 C92.3898548,286.77136 122.604687,284.824238 136.897217,299.599714 C153.057851,316.306416 193.201563,277.712391 281.49876,277.929081 C340.363558,278.073541 371.85456,282.930514 375.971767,292.5 L377,413.00332 L377,667 L0,667 L0.377905094,0 Z" id="Path-Copy" fill="#DB0812"></path>
+                    <path d="M0.930347517,145.891793 C10.3512884,212.901744 41.5357907,261.771147 94.4838545,292.5 C206.53609,357.530456 269.031666,245.560064 375.543053,307.875569 C375.650426,307.938389 375.811587,308.033017 376.026536,308.159455 L376,292.5 C376,290.504437 375.991619,289.004437 375.974857,288 C273.95601,218.48451 170.455622,329.315736 94.4838545,270.265931 C43.8360095,230.899394 12.5882386,140.810751 0.740541557,7.38964445e-13 L0.632253404,143.55627 C0.762146271,144.62366 0.861510976,145.402168 0.930347517,145.891793 Z" id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

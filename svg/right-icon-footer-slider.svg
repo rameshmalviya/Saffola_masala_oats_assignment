@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="20px" viewBox="0 0 11 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>right</title>
+    <g id="Design-v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ipad-3" transform="translate(-775.000000, -4844.000000)" fill="#fff">
+            <g id="testimonials" transform="translate(0.000000, 4535.000000)">
+                <path d="M775.352,317.917333 L783.917333,309.352 C784.416,308.882667 785.178667,308.882667 785.648,309.352 C786.117333,309.821333 786.117333,310.584 785.648,311.082667 L777.933333,318.797333 L785.648,326.512 C786.117333,326.981333 786.117333,327.773333 785.648,328.242667 C785.178667,328.712 784.416,328.712 783.917333,328.242667 L775.352,319.648 C774.882667,319.178667 774.882667,318.416 775.352,317.917333 Z" id="right" transform="translate(780.500000, 318.797333) scale(-1, 1) translate(-780.500000, -318.797333) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

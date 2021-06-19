@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="33px" viewBox="0 0 74 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow 2</title>
+    <g id="Design-v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ipad-1" transform="translate(-488.000000, -3319.000000)" fill="#FCC500" fill-rule="nonzero">
+            <g id="steps" transform="translate(0.000000, 3105.000000)">
+                <g id="arrow-2" transform="translate(525.152579, 230.394435) scale(1, -1) translate(-525.152579, -230.394435) translate(488.652579, 214.394435)">
+                    <path d="M18.0512516,31.3944354 C11.4900068,31.3944354 5.44436201,30.125217 0.347421281,27.7497648 L1.14050788,26.0515413 C18.6559099,34.2120064 47.9016814,28.7080012 69.9084285,2.39443535 L71.3474213,3.59527515 C55.0788339,23.0494418 34.8719998,31.3944354 18.0512516,31.3944354 Z" id="Path"></path>
+                    <polygon id="Path" points="71.2671889 10.3944354 68.8830902 10.1766245 69.6358584 3.21402914 61.8715636 4.81590397 61.3474213 2.66352827 72.3474213 0.394435352"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

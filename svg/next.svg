@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5px" height="9px" viewBox="0 0 5 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>next</title>
+    <g id="Design-v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Saffola-Masala-Oats_Landing-Page_Desktop_v3" transform="translate(-952.000000, -3168.000000)" fill="#202020">
+            <g id="recipes" transform="translate(0.000000, 2918.000000)">
+                <g id="sub-items" transform="translate(483.000000, 241.000000)">
+                    <g id="more" transform="translate(355.000000, 0.000000)">
+                        <path d="M114.16,13.0533333 L118.053333,9.16 C118.28,8.94666667 118.626667,8.94666667 118.84,9.16 C119.053333,9.37333333 119.053333,9.72 118.84,9.94666667 L115.333333,13.4533333 L118.84,16.96 C119.053333,17.1733333 119.053333,17.5333333 118.84,17.7466667 C118.626667,17.96 118.28,17.96 118.053333,17.7466667 L114.16,13.84 C113.946667,13.6266667 113.946667,13.28 114.16,13.0533333 Z" id="next" transform="translate(116.500000, 13.453333) scale(-1, 1) translate(-116.500000, -13.453333) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

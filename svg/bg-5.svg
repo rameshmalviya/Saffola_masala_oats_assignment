@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1442px" height="752px" viewBox="0 0 1442 752" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bg</title>
+    <defs>
+        <rect id="path-1" x="0" y="0.0655166034" width="1440" height="750"></rect>
+        <linearGradient x1="32.4593465%" y1="29.2162848%" x2="97.0432718%" y2="78.9205272%" id="linearGradient-3">
+            <stop stop-color="#8E6A46" offset="0%"></stop>
+            <stop stop-color="#F1D07C" offset="40%"></stop>
+            <stop stop-color="#D9B76E" offset="43%"></stop>
+            <stop stop-color="#B9965C" offset="49%"></stop>
+            <stop stop-color="#A37E50" offset="54%"></stop>
+            <stop stop-color="#957048" offset="59%"></stop>
+            <stop stop-color="#906B45" offset="63%"></stop>
+            <stop stop-color="#987449" offset="66%"></stop>
+            <stop stop-color="#AD8B54" offset="70%"></stop>
+            <stop stop-color="#CFB165" offset="76%"></stop>
+            <stop stop-color="#F1D777" offset="81%"></stop>
+            <stop stop-color="#D8BB6B" offset="83%"></stop>
+            <stop stop-color="#BD9E5D" offset="86%"></stop>
+            <stop stop-color="#A88753" offset="88%"></stop>
+            <stop stop-color="#9A774C" offset="91%"></stop>
+            <stop stop-color="#916D47" offset="95%"></stop>
+            <stop stop-color="#8E6A46" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design-v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Saffola-Masala-Oats_Landing-Page_Desktop_v3" transform="translate(0.000000, 1.000000)">
+            <g id="header" transform="translate(0.000000, -1.000000)">
+                <g id="bg" transform="translate(0.000000, 0.934483)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use fill="#FCC517" xlink:href="#path-1"></use>
+                    <path d="M781.292358,0.0655166034 L1441.24001,0.0655166034 L1441.24001,750.065517 L976,750.065517 C822.328621,644.850195 711.995287,513.803088 645,356.924195 C610.156072,275.332235 613.368413,182.040417 685,86.0655166 C699.673622,66.405204 731.771075,37.7385373 781.292358,0.0655166034 Z" id="right-spot" fill="#DB0812"></path>
+                    <path d="M645.685365,232.132732 C645.685365,130.071582 710.405128,40.5518099 805.881737,0.223743913 C805.999718,0.173910321 806.176795,0.0993290162 806.412968,5.68434189e-14 L761.822529,0.0614395468 C758.900762,1.65130126 756.715843,2.85907245 755.267771,3.68475312 C669.720117,52.4634264 617.192701,141.629016 617.239594,237.98762 C617.239594,266.634754 623.390378,353.412569 691.997435,464.296992 C740.350377,542.311991 835.813986,653.027531 970.217199,748.70318 C970.458959,748.875278 970.821882,749.133315 971.305968,749.477292 L996.946243,750.527629 C996.659606,750.310828 996.444655,750.148194 996.30139,750.03973 C915.460231,688.835367 842.242503,618.568119 778.194467,540.64952 C642.241174,376.354174 645.685365,268.606298 645.685365,232.132732 Z" id="heart" fill="url(#linearGradient-3)" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

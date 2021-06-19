@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>up arrow</title>
+    <defs>
+        <circle id="path-1" cx="30" cy="30" r="30"></circle>
+        <filter x="-26.7%" y="-23.3%" width="153.3%" height="153.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.130613527 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Design-v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Saffola-Masala-Oats_Landing-Page_Desktop_v3.3" transform="translate(-1316.000000, -4330.000000)">
+            <g id="up-arrow" transform="translate(1326.000000, 4338.000000)">
+                <g id="Oval">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M44.6225657,29.0866447 L37.8950452,22.3757377 C37.3911345,21.8730923 36.5760851,21.8749633 36.0744915,22.3801248 C35.5729622,22.8852219 35.5748931,23.7021901 36.0788039,24.2049 L40.5948842,28.7096768 L17.2872927,28.7096768 C16.576321,28.7096768 16,29.2873545 16,30 C16,30.7126456 16.576321,31.2903234 17.2872927,31.2903234 L40.5948199,31.2903234 L36.0788682,35.7951001 C35.5749575,36.2978101 35.5730266,37.1147783 36.0745558,37.6198753 C36.5761494,38.1251014 37.3912632,38.1268434 37.8951096,37.6242624 L44.6214715,30.9145812 C45.1267983,30.408968 45.1251892,29.5893547 44.6225657,29.0866447 Z" id="Path" fill="#DB0812" fill-rule="nonzero" transform="translate(30.500000, 30.000000) rotate(-90.000000) translate(-30.500000, -30.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
