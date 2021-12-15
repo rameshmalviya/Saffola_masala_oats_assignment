@@ -679,3 +679,6 @@ p {
 .sb-saffola-masala-oats-resposive-mb{
     display: none;
 }
+.img-responsive{
+    width: 100%;
+}
